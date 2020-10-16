@@ -1,0 +1,25 @@
+/*
+Contains styling for practice page
+*/
+
+/* tag selector */
+h1
+{
+    color: #FF4400;
+}
+
+/* class selector */
+.odd
+{
+    color: #0066FF;
+}
+
+#even
+{
+    color: #FF8822
+}
+
+body > table
+{
+    margin: auto;
+}
